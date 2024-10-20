@@ -105,8 +105,8 @@ challenges and assisted in designing scalable and robust machine learning pipeli
 **Oct 2022 - Dec 2022** (2 month) 
 
 **Key Responsibilities:**
--Gained hands-on experience in supervised learning techniques to address real-world problems. 
--Explored various machine learning methods, focusing on the underlying mathematics and 
+- Gained hands-on experience in supervised learning techniques to address real-world problems. 
+- Explored various machine learning methods, focusing on the underlying mathematics and 
 implementation strategies and enhancing problem-solving skills in model evaluation and optimization. 
 
 [![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-0B3D91?style=for-the-badge)](https://en.wikipedia.org/wiki/Supervised_learning) 
@@ -134,10 +134,10 @@ developed for interaction with the device.
 
 **Key Responsibilities:**
 I focused on the computer vision system, which involved: 
-• Founding a pattern for the model to detect virus from
-• Generating a dataset from scratch
-• Training the detection model using YOLOv8 with transfer learning.
-• Evaluating the model's performance on a test set to ensure real-world applicability. type me business goal from this project
+- Founding a pattern for the model to detect virus from
+- Generating a dataset from scratch
+- Training the detection model using YOLOv8 with transfer learning.
+- Evaluating the model's performance on a test set to ensure real-world applicability.
 
 
 [![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)  

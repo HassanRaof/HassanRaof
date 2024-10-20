@@ -152,8 +152,9 @@ I focused on the computer vision system, which involved:
 
 **Description:**  
 🔍 Developed a predictive model for vehicle pricing using advanced data preprocessing and evaluation techniques. Employed algorithms like LightGBM and CatBoost, utilizing KFold Cross-Validation and metrics such as RMSE and MAE for robust performance assessment. Enhanced model explainability with SHAP Analysis.
+[![cars](https://github.com/HassanRaof/HassanRaof/blob/main/Capture.PNG)](https://www.kaggle.com/code/hassanraof/advanced-techniques-in-used-car-price-prediction)
 
-[![used Cars](Capture.PNG)(https://www.kaggle.com/code/hassanraof/advanced-techniques-in-used-car-price-prediction)
+
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 

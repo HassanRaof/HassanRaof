@@ -57,6 +57,10 @@
 **Sep 2024 - Present** 
 **Location:** Cairo
 
+**Self-employed**  
+**Nov 2021 - Dec 2022** (1 year 2 months)  
+**Location:** Egypt
+
 **Key Responsibilities:**
 - Developing my understanding of foundational and advanced concepts in machine learning and deep learning, focuses on mathematical foundations, optimization techniques, and data analysis, providing hands-on experience in model evaluation, tuning, and pipeline development. I am gaining insights into various machine learning methods and their applications, while developing proficiency in deep learning frameworks. This experience equips me with the practical skills and theoretical knowledge necessary to effectively address real world AI challenges.
 

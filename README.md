@@ -52,32 +52,33 @@
 
 ---
 
-## 🧑‍💻 Data Scientist Intern  
-**WorldQuant University** · *Remote*  
-**May 2023 - May 2023** (1 month)  
+## 🟠 Artificial Intelligence Intern  
+**Orange Digital Center** · *Cairo*  
+**Sep 2024 - Present** 
 
 **Key Responsibilities:**
-- Engaged in the **Applied Data Science Lab**, applying data science methodologies to real-world projects.
+- Developing my understanding of foundational and advanced concepts in machine learning and deep learning, focuses on mathematical foundations, optimization techniques, and data analysis, providing hands-on experience in model evaluation, tuning, and pipeline development. I am gaining insights into various machine learning methods and their applications, while developing proficiency in deep learning frameworks. This experience equips me with the practical skills and theoretical knowledge necessary to effectively address real world AI challenges.
 
-[![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)[![Pipline_Development](https://img.shields.io/badge/Pipline_Development-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipline_Development) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
 ---
 
-## 🖥️ Software Engineer  
-**Self-employed**  
-**Nov 2021 - Dec 2022** (1 year 2 months)  
-**Location:** Egypt  
+## 🖥️ AI & Data Scientist
+**Digital Egypt Pioneers Initiative**  
+**OCT 2024 - Present**
+**Location:** CLS company Cairo 
 
-**Key Projects:**
-- **FCAI App:** Designed to assist classmates with academic materials, streamlining access to resources.
-- **Tasbeeh App:** Developed a digital tool for tasbeeh, enhancing users' spiritual practices.
-- **Hoozgram:** Built an app for mood tracking, promoting emotional awareness.
-- **3D Game:** Created a 3D game using Unity Engine, offering engaging gameplay experiences.
-- **AR App:** Developed an augmented reality application, delivering immersive experiences.
-- **Food Recipes App:** Released a user-friendly app featuring a variety of food recipes.
-- **Website Development:** Built dynamic websites using various technologies, showcasing a full-stack development skill set.
+**Key Responsibilities:**
+ - Gained a thorough understanding of Data Science fundamentals, including:
+ - The principles of Data Science and its applications in various industries.
+ - Tools and methodologies essential for Data Science projects.
+ - Proficiency in Python for Data Science, AI, and development, including hands-on projects that reinforce learning.
+ - Expertise in Databases and SQL for Data Science, enhancing data manipulation and retrieval skills.
+ - Data analysis and visualization techniques using Python libraries, such as pandas and Matplotlib.
+ - Implementation of machine learning algorithms with Python, fostering a practical understanding of model development.
+ - Experience with MLOps tools, including MLflow and Hugging Face, culminating in an Applied Data Science Capstone project that integrates learned concepts.
 
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com) [![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Problem_solving)  [![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=nosql&logoColor=white)](https://www.nosql.com) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Augmented Reality](https://img.shields.io/badge/Augmented_Reality-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Augmented_reality) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com)  [![Web Development](https://img.shields.io/badge/Web_Development-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Web_development) [![User Experience (UX)](https://img.shields.io/badge/User_Experience-00BFFF?style=for-the-badge)](https://en.wikipedia.org/wiki/User_experience)  [![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development) [![Version Control (Git)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Data Science](https://img.shields.io/badge/Data_Science-0B3D91?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFB74D?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)[![MLOps](https://img.shields.io/badge/MLOps-4EA94B?style=for-the-badge)](https://ml-ops.org) [![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development)  
 
 ---
 

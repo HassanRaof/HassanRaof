@@ -39,8 +39,9 @@
 
 #### 🏫 **Bachelor of Engineering , Mechatronics Department**
 
-- ![University Badge](https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Assiut_University_Logo.png/1200px-Assiut_University_Logo.png)
+- ![University Badge](https://img.shields.io/badge/Assiut_University-0055A4?style=flat&logo=university&logoColor=white)
 - ![Grade Badge](https://img.shields.io/badge/GRADE-81.1%25-brightgreen)
+- ![Graduation Project Badge](https://img.shields.io/badge/Graduation%20Project-Excellent-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-SEP%202019%20–%20JUL%202024-yellow)
 
 ---

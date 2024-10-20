@@ -55,7 +55,7 @@
 ## 🟠 AI Intern  
 
 **Orange Digital Center**  
-**Sep 2024 - Present** .
+**Sep 2024 - Present** (2 MOnths)
 **Location:** Cairo
 
 **Key Responsibilities:**
@@ -67,7 +67,7 @@
 
 ## 🖥️ AI & Data Scientist
 **Digital Egypt Pioneers Initiative**  
-**OCT 2024 - Present**
+**OCT 2024 - Present** (6 Months)
 **Location:** CLS company Cairo 
 
 **Key Responsibilities:**

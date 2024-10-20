@@ -129,7 +129,7 @@ I focused on the computer vision system, which involved:
 • Training the detection model using YOLOv8 with transfer learning.
 • Evaluating the model's performance on a test set to ensure real-world applicability. type me business goal from this project
 
-[![Device](https://files.fm/f/8g5z5sxy6u)  
+[![Device](695bebc5-5a04-47f4-b6f5-ac0d0551e5e6.jpeg)  
 
 **Business Goal:**  
 🎯  the device aims to penetrate the diagnostic market and establish a strong presence in the healthcare sector.

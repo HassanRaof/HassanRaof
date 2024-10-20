@@ -120,13 +120,17 @@ implementation strategies and enhancing problem-solving skills in model evaluati
 **Description:**  
 🚀 Developed an AI-powered analytical device to detect viral infections in biological samples
 using isotachophoresis to extract and concentrate viral RNA in a micro-channel made of
-Polydimethylsiloxane. The device utilizes light signals from probes reacting with the virus and employs computer vision techniques to determine infection levels. A user-friendly tablet interface was also developed for interaction with the device.
-**I Worked on the computer vision system** 
-which involved: 
+Polydimethylsiloxane. The device utilizes light signals from probes reacting with the virus and employs
+computer vision techniques to determine infection levels. A user-friendly tablet interface was also
+developed for interaction with the device.
+
+**Key Responsibilities:**
+I focused on the computer vision system, which involved: 
 • Founding a pattern for the model to detect virus from
 • Generating a dataset from scratch
 • Training the detection model using YOLOv8 with transfer learning.
 • Evaluating the model's performance on a test set to ensure real-world applicability. type me business goal from this project
+
 
 [![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)  
 
@@ -147,15 +151,23 @@ which involved:
 
 ---
 
-## ⚙️ Automated Machine Learning Pipeline for Data Preprocessing, Training, and Evaluation  
+## 🎬 Movie Recommender System
 
 **Description:**  
-Built a fully automated machine learning pipeline using **Python** and **DVC**. This pipeline handles data preprocessing, model training using **XGBoost**, and evaluation. Versioning and reproducibility are ensured via **DVC**.
+-Developed a Movie Recommender System that uses machine learning to help users discover films based on their preferences. The system features a user-friendly interface built with Streamlit.
+
+**🛠 Methodology:**
+![Data Collection](https://img.shields.io/badge/Data%20Collection-TMDb%20Dataset-blue)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-Combined%20Text%20Data-lightblue)
+![Recommendation Logic](https://img.shields.io/badge/Recommendation%20Logic-Cosine%20Similarity-orange)
+![GUI Development](https://img.shields.io/badge/GUI%20Development-Streamlit-yellow)
+![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Community-green)
 
 [![Automated ML Pipeline](https://github.com/abdullah0150/Images/blob/main/images/project-3.png)](https://www.linkedin.com/posts/abdullah-khaled-0608a9236_machinelearning-activity-7236010396329869312-zLAS?utm_source=share&utm_medium=member_desktop)
 
 **Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-F37626?style=flat&logo=dvc&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pickle](https://img.shields.io/badge/Pickle-EC4E20?style=flat&logo=Pickle&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-F37626?style=flat&logo=Streamlit&logoColor=white) ![requests](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 

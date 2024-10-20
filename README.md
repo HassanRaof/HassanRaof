@@ -199,15 +199,21 @@ I focused on the computer vision system, which involved:
 
 ---
 
-## 💼 Customer Personality Analysis  
+## 🚪🏃‍♂️ Telco customer churn 
 
 **Description:**  
-Performed customer segmentation using **K-Means Clustering** to categorize customers by behavioral patterns. These insights helped the company design personalized marketing strategies, improving customer engagement and revenue.
+Developed a predictive model for customer churn using XGBoost by importing and preprocessing data, handling outliers and missing values, performing feature engineering, oversampling imbalanced data, and optimizing with Grid Search. Evaluated model performance with a confusion matrix to identify at-risk customers effectively.
 
-[![Customer Personality Analysis](https://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif)](https://www.kaggle.com/code/abdullah7aled/customer-personality-analysis-in-python)
+
+
+[![movies](https://github.com/HassanRaof/HassanRaof/blob/main/customer%20churn.PNG)](https://www.kaggle.com/code/hassanraof/telco-customer-churn)
+
+
+
+
 
 **Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-FF6347?style=flat&logo=clustering)   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![imblearn](https://img.shields.io/badge/imblearn-3776AB?style=flat&logo=imblearn&logoColor=white) ![XGboost](https://img.shields.io/badge/XGboost-FF6347?style=flat&logo=XGboost) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=Scikit-learn&logoColor=white) 
 
 ---
 

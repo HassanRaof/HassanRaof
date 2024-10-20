@@ -60,7 +60,7 @@
 **Key Responsibilities:**
 - Developing my understanding of foundational and advanced concepts in machine learning and deep learning, focuses on mathematical foundations, optimization techniques, and data analysis, providing hands-on experience in model evaluation, tuning, and pipeline development. I am gaining insights into various machine learning methods and their applications, while developing proficiency in deep learning frameworks. This experience equips me with the practical skills and theoretical knowledge necessary to effectively address real world AI challenges.
 
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Deep_Learning](https://img.shields.io/badge/Deep_learning-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_Learning)[![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)[![Pipline_Development](https://img.shields.io/badge/Pipline_Development-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipline_Development) [![Model_Evaluation](https://img.shields.io/badge/Model_Evaluation-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Deep_Learning](https://img.shields.io/badge/Deep_learning-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_Learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) [![Pipline_Development](https://img.shields.io/badge/Pipline_Development-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipline_Development) [![Model_Evaluation](https://img.shields.io/badge/Model_Evaluation-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
 ---
 
@@ -129,7 +129,7 @@ I focused on the computer vision system, which involved:
 • Training the detection model using YOLOv8 with transfer learning.
 • Evaluating the model's performance on a test set to ensure real-world applicability. type me business goal from this project
 
-[![Device](695bebc5-5a04-47f4-b6f5-ac0d0551e5e6.jpeg)  
+[![Device](mashro3.jfif)  
 
 **Business Goal:**  
 🎯  the device aims to penetrate the diagnostic market and establish a strong presence in the healthcare sector.

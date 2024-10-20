@@ -123,13 +123,13 @@ using isotachophoresis to extract and concentrate viral RNA in a micro-channel m
 Polydimethylsiloxane. The device utilizes light signals from probes reacting with the virus and employs
 computer vision techniques to determine infection levels. A user-friendly tablet interface was also
 developed for interaction with the device.
-I focused on the computer vision system, which involved:
+I focused on the computer vision system, which involved: 
 • Founding a pattern for the model to detect virus from
 • Generating a dataset from scratch
 • Training the detection model using YOLOv8 with transfer learning.
 • Evaluating the model's performance on a test set to ensure real-world applicability. type me business goal from this project
 
-[![Device](mashro3.jfif)  
+[![Device](mashro33.jpg)  
 
 **Business Goal:**  
 🎯  the device aims to penetrate the diagnostic market and establish a strong presence in the healthcare sector.

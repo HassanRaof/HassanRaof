@@ -88,9 +88,10 @@
 **Aug 2024 - Present** (3 month)  
 
 **Key Responsibilities:**
--Engaged in the complete machine learning lifecycle, including data collection, preprocessing, model 
-training, evaluation, and deployment. Contributed to developing AI/ML solutions for real-world 
-challenges and assisted in designing scalable and robust machine learning pipelines.
+- Participate in the full machine learning lifecycle, from data collection and preprocessing to model training, evaluation, and deployment
+- Contribute to the development of cutting-edge AI/ML solutions for real-world problems across various domains
+- Assist in the design and implementation of efficient, scalable, and robust machine learning pipelines
+- Perform exploratory data analysis, feature engineering, and model selection to optimize model performance
 
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFB74D?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
 [![Data Processing](https://img.shields.io/badge/Data_Processing-4EA94B?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_processing)
@@ -217,15 +218,19 @@ Developed a predictive model for customer churn using XGBoost by importing and p
 
 ---
 
-## 🎥 Movie Recommendation System  
+## 🎥 Housing Prices in Egypt 
 
 **Description:**  
-Built a movie recommendation system using the **MovieLens 100k** dataset, optimizing with **SVD** and **grid search**. Achieved an RMSE score of 0.94 to enhance user experience on streaming platforms.
+Developed a predictive modeling project focused on housing prices in Egypt using a stacking ensemble approach. The project involved data collection, preprocessing, and exploratory data analysis (EDA) to uncover key insights. Implemented feature engineering and trained multiple base models, culminating in a stacking ensemble that enhanced predictive accuracy. Evaluated model performance using metrics such as Mean Absolute Error (MAE), demonstrating proficiency in advanced machine learning techniques and data-driven decision-making.
+
+
 
 [![Movie Recommendation System](https://github.com/abdullah0150/Images/blob/main/images/project-4.png)](https://github.com/your-username/your-repo-link)
 
+
+
 **Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SVD](https://img.shields.io/badge/SVD_Model-FF4500?style=flat) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
+![LightGBM](https://img.shields.io/badge/LightGBM-3776AB?style=flat&logo=LightGBM&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF4500?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-orange) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
 
 
 ---

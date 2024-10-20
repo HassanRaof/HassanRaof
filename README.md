@@ -55,7 +55,7 @@
 ## 🟠 AI Intern  
 
 **Orange Digital Center**  
-**Sep 2024 - Present** 
+**Sep 2024 - Present** .
 **Location:** Cairo
 
 **Key Responsibilities:**

@@ -120,10 +120,9 @@ implementation strategies and enhancing problem-solving skills in model evaluati
 **Description:**  
 🚀 Developed an AI-powered analytical device to detect viral infections in biological samples
 using isotachophoresis to extract and concentrate viral RNA in a micro-channel made of
-Polydimethylsiloxane. The device utilizes light signals from probes reacting with the virus and employs
-computer vision techniques to determine infection levels. A user-friendly tablet interface was also
-developed for interaction with the device.
-I focused on the computer vision system, which involved: 
+Polydimethylsiloxane. The device utilizes light signals from probes reacting with the virus and employs computer vision techniques to determine infection levels. A user-friendly tablet interface was also developed for interaction with the device.
+**I Worked on the computer vision system** 
+which involved: 
 • Founding a pattern for the model to detect virus from
 • Generating a dataset from scratch
 • Training the detection model using YOLOv8 with transfer learning.

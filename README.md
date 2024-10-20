@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1jQOn-jON4HmUQeJn2lk8e6SJIzrS78De/view?usp=sharing)  
 - 💬 **Ask me about**: , Data Science, Machine Learning, Deep Learning,Computer Vision , NLP 
 - 📫 **Reach me at**: [hassanraof404@gmail.com](mailto:hassanraof404@gmail.com) | **+20 1115617479**  
 
@@ -26,7 +26,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Hassan Raof" height="40" width="40" />
   </a>
   <a href="https://leetcode.com/u/hassanraof/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LeetCode_logo_black.png" alt="LeetCode - Hassan Raof" height="40" width="40" />
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=128" alt="LeetCode - Hassan Raof" height="40" width="40" />
   </a>
 </p>
 
@@ -39,8 +39,8 @@
 
 #### 🏫 **Bachelor of Engineering , Mechatronics Department**
 
-- ![University Badge](https://img.shields.io/badge/Beni_Suef_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.244/4.0-brightgreen)
+- ![University Badge](https://photos.wikimapia.org/p/00/00/86/47/68_big.jpg)
+- ![GPA Badge](https://img.shields.io/badge/GRADE-81.1%-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-SEP%202019%20–%20July%202024-yellow)
 
 ---

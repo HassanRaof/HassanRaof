@@ -115,7 +115,7 @@ implementation strategies and enhancing problem-solving skills in model evaluati
 
 ---
 
-## 🛒 AI Virus Detection Device - Graduation Project 
+## 💼 AI Virus Detection Device - Graduation Project 
 
 **Description:**  
 🚀 Developed an AI-powered analytical device to detect viral infections in biological samples
@@ -129,10 +129,9 @@ I focused on the computer vision system, which involved:
 • Training the detection model using YOLOv8 with transfer learning.
 • Evaluating the model's performance on a test set to ensure real-world applicability. type me business goal from this project
 
-[![Device](mashro33.jpg)  
+[![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395)  
 
-**Business Goal:**  
-🎯  the device aims to penetrate the diagnostic market and establish a strong presence in the healthcare sector.
+
 
 
 ---

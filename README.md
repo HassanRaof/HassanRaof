@@ -140,22 +140,28 @@ I focused on the computer vision system, which involved:
 - Evaluating the model's performance on a test set to ensure real-world applicability.
 
 
-[![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)  
+  [![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)  
 
 
 
 
 ---
 
-## 🎮 A/B Testing for Cookie Cats Mobile Game  
+## 🚗 Advanced Techniques in Used Car Price Prediction
+**🏆Kaggle Competition**
 
 **Description:**  
-🔍 Led an **A/B Testing** analysis for the mobile game **Cookie Cats**, evaluating player retention between control and test groups. Used statistical techniques like **Shapiro-Wilk**, **Levene's Test**, and **T-tests** to provide business recommendations that improved retention rates.
+🔍 Developed a predictive model for vehicle pricing using advanced data preprocessing and evaluation techniques. Employed algorithms like LightGBM and CatBoost, utilizing KFold Cross-Validation and metrics such as RMSE and MAE for robust performance assessment. Enhanced model explainability with SHAP Analysis.
 
 [![A/B Testing Cookie Cats](https://github.com/abdullah0150/Images/blob/main/images/project-1.png)](https://github.com/abdullah-khaled0/A-B-Testing-with-Cookie-Cats-mobile-game-dataset/blob/main/presentation.pdf)
 
 **Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![LightGBM](https://img.shields.io/badge/LightGBM-1F9C8B?style=flat&logo=lightgbm&logoColor=white) 
+![CatBoost](https://img.shields.io/badge/CatBoost-00A3E0?style=flat&logo=catboost&logoColor=white) 
+![SHAP](https://img.shields.io/badge/SHAP-FFB74D?style=flat&logoColor=white)
 
 ---
 

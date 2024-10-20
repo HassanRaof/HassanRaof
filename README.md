@@ -66,8 +66,8 @@
 
 ## 🖥️ AI & Data Scientist
 **Digital Egypt Pioneers Initiative**  
-**OCT 2024 - Present** (6 Months)
-**Location:** CLS company Cairo 
+**Oct 2024 - Present** (6 months)  
+**Location:** CLS Comany Cairo
 
 **Key Responsibilities:**
  - Gained a thorough understanding of Data Science fundamentals, including:

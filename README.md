@@ -153,7 +153,7 @@ I focused on the computer vision system, which involved:
 
 **Description:**  
 🔍 Developed a predictive model for vehicle pricing using advanced data preprocessing and evaluation techniques. Employed algorithms like LightGBM and CatBoost, utilizing KFold Cross-Validation and metrics such as RMSE and MAE for robust performance assessment. Enhanced model explainability with SHAP Analysis.
-[![cars](https://github.com/HassanRaof/HassanRaof/blob/main/Capture.PNG)](https://www.kaggle.com/code/hassanraof/advanced-techniques-in-used-car-price-prediction)
+  [![cars](https://github.com/HassanRaof/HassanRaof/blob/main/Capture.PNG)](https://www.kaggle.com/code/hassanraof/advanced-techniques-in-used-car-price-prediction)
 
 
 
@@ -171,7 +171,7 @@ I focused on the computer vision system, which involved:
 
 **Description:**  
 🔍 developed a Movie Recommender System that utilizes machine learning to help users discover films based on their preferences. Key methodologies include data collection from the TMDb dataset, preprocessing using CountVectorizer for text transformation, and implementing cosine similarity for recommendations. The user-friendly interface is built with Streamlit, allowing dynamic movie selection and poster fetching for an engaging experience.
-[![movies](https://github.com/HassanRaof/HassanRaof/blob/main/Captures.PNG)](https://www.kaggle.com/code/hassanraof/movies-recommender-system)
+  [![movies](https://github.com/HassanRaof/HassanRaof/blob/main/Captures.PNG)](https://www.kaggle.com/code/hassanraof/movies-recommender-system)
 
 
 
@@ -207,7 +207,7 @@ Developed a predictive model for customer churn using XGBoost by importing and p
 
 
 
-[![movies](https://github.com/HassanRaof/HassanRaof/blob/main/customer%20churn.PNG)](https://www.kaggle.com/code/hassanraof/telco-customer-churn)
+  [![movies](https://github.com/HassanRaof/HassanRaof/blob/main/customer%20churn.PNG)](https://www.kaggle.com/code/hassanraof/telco-customer-churn)
 
 
 
@@ -225,7 +225,7 @@ Developed a predictive modeling project focused on housing prices in Egypt using
 
 
 
-[![Movie Recommendation System](https://github.com/HassanRaof/HassanRaof/blob/main/houses.PNG)](https://www.kaggle.com/code/hassanraof/egypt-houses-price-using-stacking-model)
+  [![Movie Recommendation System](https://github.com/HassanRaof/HassanRaof/blob/main/houses.PNG)](https://www.kaggle.com/code/hassanraof/egypt-houses-price-using-stacking-model)
 
 
 

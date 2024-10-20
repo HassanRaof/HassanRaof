@@ -52,14 +52,15 @@
 
 ---
 
-## 🟠 Artificial Intelligence Intern  
-**Orange Digital Center** · *Cairo*  
+## 🟠 AI Intern  
+**Orange Digital Center** 
 **Sep 2024 - Present** 
+**Location:** Cairo
 
 **Key Responsibilities:**
 - Developing my understanding of foundational and advanced concepts in machine learning and deep learning, focuses on mathematical foundations, optimization techniques, and data analysis, providing hands-on experience in model evaluation, tuning, and pipeline development. I am gaining insights into various machine learning methods and their applications, while developing proficiency in deep learning frameworks. This experience equips me with the practical skills and theoretical knowledge necessary to effectively address real world AI challenges.
 
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)[![Pipline_Development](https://img.shields.io/badge/Pipline_Development-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipline_Development) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Deep_Learning](https://img.shields.io/badge/Deep_learning-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_Learning)[![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)[![Pipline_Development](https://img.shields.io/badge/Pipline_Development-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipline_Development) [![Model_Evaluation](https://img.shields.io/badge/Model_Evaluation-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
 ---
 
@@ -82,112 +83,57 @@
 
 ---
 
+## 🖥️ Machine Learning Intern  
+**Code Alpha** .Remote
+**AUG 2024 - Present** 
 
+**Key Responsibilities:**
+-Engaged in the complete machine learning lifecycle, including data collection, preprocessing, model 
+training, evaluation, and deployment. Contributed to developing AI/ML solutions for real-world 
+challenges and assisted in designing scalable and robust machine learning pipelines.
 
-<br>
-
-## 🛠️ Technical Skills
-
-### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-### 🤖 Machine Learning & NLP
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
-
-### 🧠 Deep Learning & GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-00A3E0?style=flat&logo=cohere&logoColor=white)
-
-### 🚀 Deployment & MLOps
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-0055FF?style=flat&logo=dvc&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF69B4?style=flat&logo=githubactions&logoColor=white)
-
-### 📊 Data Science & Business Intelligence
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-0080FF?style=flat&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-000000?style=flat&logo=dbt&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-5382A1?style=flat&logo=nosql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-00E7B7?style=flat&logo=snowflake&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=flat&logo=statistics&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time%20Series-FF4500?style=flat&logo=time-series&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
-
-### ☁️ Familiar with Cloud Computing & Services
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat&logo=amazon-sagemaker&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-1E1E1E?style=flat&logo=azure-databricks&logoColor=white)
-![S3 Bucket](https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=amazon-s3&logoColor=white)
-
-
-
-<br>
-
-## 🌟 Soft Skills
-
-### 🎯 Problem-Solving & Critical Thinking
-- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
-
-### 🧑‍🤝‍🧑 Teamwork & Collaboration
-- Experience working in **cross-functional teams**.
-- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
-
-### 💡 Creativity & Innovation
-- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
-
-### 📅 Time Management & Organization
-- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
-
-### 🎙️ Communication & Presentation
-- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
-- Proficient in **presenting data-driven findings** clearly and persuasively.
-
-### 📈 Continuous Learning
-- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
-
-
-<br>
-
-# 📊 Recent Projects in Data Analytics
+ [![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)[![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)
 
 ---
 
-## 🛒 Customer Segmentation Based on RFM Analysis  
+## 🧑‍💻 Machine Learning Intern  
+**Ministry of Communications and Information Technology (MCIT), Egypt** .Remote
+**DEC 2022 - NOV 2022** 
+
+**Key Responsibilities:**
+-Gained hands-on experience in supervised learning techniques to address real-world problems. 
+-Explored various machine learning methods, focusing on the underlying mathematics and 
+implementation strategies and enhancing problem-solving skills in model evaluation and optimization. 
+
+
+
+
+
+<br>
+
+# 📊 Projects 
+
+---
+
+## 🛒 AI Virus Detection Device - Graduation Project 
 
 **Description:**  
-🚀 Excited to share my latest project on **Customer Segmentation** using **RFM (Recency, Frequency, Monetary)** analysis for a UK-based online retailer specializing in unique gifts. This project analyzed customer transactions to segment audiences effectively.
+🚀 Developed an AI-powered analytical device to detect viral infections in biological samples
+using isotachophoresis to extract and concentrate viral RNA in a micro-channel made of
+Polydimethylsiloxane. The device utilizes light signals from probes reacting with the virus and employs
+computer vision techniques to determine infection levels. A user-friendly tablet interface was also
+developed for interaction with the device.
+I focused on the computer vision system, which involved:
+• Founding a pattern for the model to detect virus from
+• Generating a dataset from scratch
+• Training the detection model using YOLOv8 with transfer learning.
+• Evaluating the model's performance on a test set to ensure real-world applicability. type me business goal from this project
 
-[![Customer Segmentation Based on RFM](https://github.com/abdullah0150/Images/blob/main/images/project-2.png)](https://github.com/abdullah-khaled0/Customer-Segmentation-based-on-RFM/blob/main/Presentation.pdf)  
+[![Device](https://files.fm/f/8g5z5sxy6u)  
 
 **Business Goal:**  
-🎯 Enable targeted marketing strategies by segmenting customers based on their purchasing behavior.
+🎯  the device aims to penetrate the diagnostic market and establish a strong presence in the healthcare sector.
 
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 

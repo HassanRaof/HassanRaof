@@ -171,8 +171,8 @@ I focused on the computer vision system, which involved:
 
 **Description:**  
 🔍 developed a Movie Recommender System that utilizes machine learning to help users discover films based on their preferences. Key methodologies include data collection from the TMDb dataset, preprocessing using CountVectorizer for text transformation, and implementing cosine similarity for recommendations. The user-friendly interface is built with Streamlit, allowing dynamic movie selection and poster fetching for an engaging experience.
-
 [![movies](https://github.com/HassanRaof/HassanRaof/blob/main/Captures.PNG)](https://www.kaggle.com/code/hassanraof/movies-recommender-system)
+
 
 
 **Tools & Technologies:**  
@@ -187,8 +187,8 @@ I focused on the computer vision system, which involved:
 -developed a Customer Segmentation project to identify distinct customer groups based on purchasing behavior. Key steps included data preprocessing, feature scaling, and using the elbow method to determine the optimal number of clusters (k) then implementing K-Means, Hierarchical clustering, and DBSCAN algorithms for segmentation. To visualize the results, I applied Principal Component Analysis (PCA) and evaluated the models using the Silhouette Score
 
 
-
 [![Customer Personality Analysis](https://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif)](https://www.kaggle.com/code/hassanraof/customer-segmentation-clustering)
+
 
 
 **Tools & Technologies:**  
@@ -225,7 +225,7 @@ Developed a predictive modeling project focused on housing prices in Egypt using
 
 
 
-[![Movie Recommendation System](https://github.com/abdullah0150/Images/blob/main/images/project-4.png)](https://github.com/your-username/your-repo-link)
+[![Movie Recommendation System](https://github.com/HassanRaof/HassanRaof/blob/main/houses.PNG)](https://www.kaggle.com/code/hassanraof/egypt-houses-price-using-stacking-model)
 
 
 

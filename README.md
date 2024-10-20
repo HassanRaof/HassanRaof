@@ -169,17 +169,9 @@ I focused on the computer vision system, which involved:
 ## 🎬 Movie Recommender System
 
 **Description:**  
--Developed a Movie Recommender System that uses machine learning to help users discover films based on their preferences. The system features a user-friendly interface built with Streamlit.
+🔍 developed a Movie Recommender System that utilizes machine learning to help users discover films based on their preferences. Key methodologies include data collection from the TMDb dataset, preprocessing using CountVectorizer for text transformation, and implementing cosine similarity for recommendations. The user-friendly interface is built with Streamlit, allowing dynamic movie selection and poster fetching for an engaging experience.
 
-**🛠 Methodology:**
-![Data Collection](https://img.shields.io/badge/Data%20Collection-TMDb%20Dataset-blue)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-Combined%20Text%20Data-lightblue)
-![Recommendation Logic](https://img.shields.io/badge/Recommendation%20Logic-Cosine%20Similarity-orange)
-![GUI Development](https://img.shields.io/badge/GUI%20Development-Streamlit-yellow)
-![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Community-green)
-
-[![Automated ML Pipeline](https://github.com/abdullah0150/Images/blob/main/images/project-3.png)](https://www.linkedin.com/posts/abdullah-khaled-0608a9236_machinelearning-activity-7236010396329869312-zLAS?utm_source=share&utm_medium=member_desktop)
-
+[![movies](https://github.com/HassanRaof/HassanRaof/blob/main/Captures.PNG)](https://www.kaggle.com/code/hassanraof/movies-recommender-system)
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pickle](https://img.shields.io/badge/Pickle-EC4E20?style=flat&logo=Pickle&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-F37626?style=flat&logo=Streamlit&logoColor=white) ![requests](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

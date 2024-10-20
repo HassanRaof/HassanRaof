@@ -172,21 +172,30 @@ I focused on the computer vision system, which involved:
 🔍 developed a Movie Recommender System that utilizes machine learning to help users discover films based on their preferences. Key methodologies include data collection from the TMDb dataset, preprocessing using CountVectorizer for text transformation, and implementing cosine similarity for recommendations. The user-friendly interface is built with Streamlit, allowing dynamic movie selection and poster fetching for an engaging experience.
 
 [![movies](https://github.com/HassanRaof/HassanRaof/blob/main/Captures.PNG)](https://www.kaggle.com/code/hassanraof/movies-recommender-system)
+
+
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pickle](https://img.shields.io/badge/Pickle-EC4E20?style=flat&logo=Pickle&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-F37626?style=flat&logo=Streamlit&logoColor=white) ![requests](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Comprehensive Sales Performance Enhancement  
+## 💳 Customer Segmentation
 
 **Description:**  
-Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing channel performance and promotional effectiveness using **Power BI**. Provided actionable insights that optimized future sales strategies, driving revenue growth.
+-developed a Customer Segmentation project to identify distinct customer groups based on purchasing behavior. Key steps included data preprocessing, feature scaling, and using the elbow method to determine the optimal number of clusters (k) then implementing K-Means, Hierarchical clustering, and DBSCAN algorithms for segmentation. To visualize the results, I applied Principal Component Analysis (PCA) and evaluated the models using the Silhouette Score
 
-[![Sales Performance Enhancement](https://github.com/abdullah0150/Images/blob/main/images/project-5.png)](https://github.com/abdullah-khaled0/Sales-Dashboard-in-PowerBI/blob/main/presentation.pdf)
+
+
+[![Customer Personality Analysis](https://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif)](https://www.kaggle.com/code/hassanraof/customer-segmentation-clustering)
+
 
 **Tools & Technologies:**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=Scikit-learn&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas-013243?style=flat&logo=pandas&logoColor=white) 
 
 ---
 

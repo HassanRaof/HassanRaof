@@ -79,31 +79,39 @@
  - Implementation of machine learning algorithms with Python, fostering a practical understanding of model development.
  - Experience with MLOps tools, including MLflow and Hugging Face, culminating in an Applied Data Science Capstone project that integrates learned concepts.
 
-[![Data Science](https://img.shields.io/badge/Data_Science-0B3D91?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFB74D?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)[![MLOps](https://img.shields.io/badge/MLOps-4EA94B?style=for-the-badge)](https://ml-ops.org) [![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development)  
+[![Data Science](https://img.shields.io/badge/Data_Science-0B3D91?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFB74D?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization) [![MLOps](https://img.shields.io/badge/MLOps-4EA94B?style=for-the-badge)](https://ml-ops.org) [![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development)  
 
 ---
 
 ## 🖥️ Machine Learning Intern  
-**Code Alpha** .Remote
-**AUG 2024 - Present** 
+**Code Alpha** · *Remote*  
+**Aug 2024 - Present** (3 month)  
 
 **Key Responsibilities:**
 -Engaged in the complete machine learning lifecycle, including data collection, preprocessing, model 
 training, evaluation, and deployment. Contributed to developing AI/ML solutions for real-world 
 challenges and assisted in designing scalable and robust machine learning pipelines.
 
- [![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)[![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFB74D?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
+[![Data Processing](https://img.shields.io/badge/Data_Processing-4EA94B?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_processing)
+[![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-00758F?style=for-the-badge)](https://en.wikipedia.org/wiki/Model_evaluation)
+[![AI Solutions](https://img.shields.io/badge/AI_Solutions-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Pipeline Design](https://img.shields.io/badge/Pipeline_Design-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipeline_(computing))
 
 ---
 
 ## 🧑‍💻 Machine Learning Intern  
-**Ministry of Communications and Information Technology (MCIT), Egypt** .Remote
-**DEC 2022 - NOV 2022** 
+**Ministry of Communications and Information Technology (MCIT), Egypt** · *Remote*  
+**Oct 2022 - Dec 2022** (2 month) 
 
 **Key Responsibilities:**
 -Gained hands-on experience in supervised learning techniques to address real-world problems. 
 -Explored various machine learning methods, focusing on the underlying mathematics and 
 implementation strategies and enhancing problem-solving skills in model evaluation and optimization. 
+
+[![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-0B3D91?style=for-the-badge)](https://en.wikipedia.org/wiki/Supervised_learning) 
+[![Model Optimization](https://img.shields.io/badge/Model_Optimization-FFB74D?style=for-the-badge)](https://en.wikipedia.org/wiki/Optimization)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-00758F?style=for-the-badge)](https://en.wikipedia.org/wiki/Problem_solving)
 
 
 

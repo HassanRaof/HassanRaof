@@ -246,12 +246,11 @@ Conducted a market basket analysis to uncover purchasing patterns using associat
 
 
 
-  [![Movie Recommendation System](https://github.com/HassanRaof/HassanRaof/blob/main/Market%20Basket%20Analysis.gif)](https://www.kaggle.com/code/hassanraof/market-basket-analysis-using-association-rules)
-
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Market%20Basket%20Analysis.gif)](https://www.kaggle.com/code/hassanraof/market-basket-analysis-using-association-rules)
 
 
 **Tools & Technologies:**  
-![mlxtend](https://img.shields.io/badge/mlxtend-3776AB?style=flat&logo=mlxtend&logoColor=white) [Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
+![mlxtend](https://img.shields.io/badge/mlxtend-3776AB?style=flat&logo=mlxtend&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-orange) ![seaborn](https://img.shields.io/badge/seaborn-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
 
 <br>
 

@@ -211,7 +211,7 @@ Developed a predictive model for customer churn using XGBoost by importing and p
 
 
 
-  [![movies](https://github.com/HassanRaof/HassanRaof/blob/main/customer%20churn.PNG)](https://www.kaggle.com/code/hassanraof/telco-customer-churn)
+  [![movies](https://github.com/HassanRaof/HassanRaof/blob/main/Telco%20Customer%20Churn.gif)](https://www.kaggle.com/code/hassanraof/telco-customer-churn)
 
 
 

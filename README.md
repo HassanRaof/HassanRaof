@@ -252,6 +252,23 @@ Conducted a market basket analysis to uncover purchasing patterns using associat
 **Tools & Technologies:**  
 ![mlxtend](https://img.shields.io/badge/mlxtend-3776AB?style=flat&logo=mlxtend&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-orange) ![seaborn](https://img.shields.io/badge/seaborn-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
 
+
+---
+
+
+## 🌒 Deep Q-Learning for Lunar Lander: A Reinforcement Learning Approach
+
+**Description:**  
+Developed a Deep Q-Learning model to solve the Lunar Lander environment, employing techniques such as experience replay and target networks to optimize the learning process. The project involved data collection through simulation, state-action value function approximation via neural networks, and policy improvement based on Q-learning principles.
+
+
+
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Deep%20Q-Learning%20for%20Lunar%20%20Lander.gif)](https://www.kaggle.com/code/hassanraof/deep-q-learning-lunar-lander)
+
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) ![OpenAIGym](https://img.shields.io/badge/OpenAIGym-orange) 
+
 <br>
 
 # 🏅 Certifications

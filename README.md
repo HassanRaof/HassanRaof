@@ -239,6 +239,20 @@ Developed a predictive modeling project focused on housing prices in Egypt using
 
 ---
 
+## 🛒 Market Basket Analysis
+
+**Description:**  
+Conducted a market basket analysis to uncover purchasing patterns using association rule mining. Implemented the Apriori algorithm to identify frequent itemsets and generate association rules. Evaluated rules based on metrics such as support, confidence, and lift to derive actionable insights for enhancing product placement and promotional strategies.
+
+
+
+  [![Movie Recommendation System](Market Basket Analysis.gif)](https://www.kaggle.com/code/hassanraof/market-basket-analysis-using-association-rules)
+
+
+
+**Tools & Technologies:**  
+![LightGBM](https://img.shields.io/badge/LightGBM-3776AB?style=flat&logo=LightGBM&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF4500?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-orange) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
+
 <br>
 
 # 🏅 Certifications

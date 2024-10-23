@@ -290,56 +290,31 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 # 🏅 Certifications
 
-## 🚀 Machine Learning & Data Science
+## 🚀 AI
 
 - **[Machine Learning Specialization](#)**  
-  *Issued Feb 2023 - DeepLearning.AI*  
+  *Issued Oct 2024 - DeepLearning.AI*  
   ![ML Skill](https://img.shields.io/badge/-Machine%20Learning-blue)
 
-- **[Machine Learning Engineer (MLOps)](#)**  
-  *Issued Aug 2024 - DataCamp*  
-  ![MLOps Skill](https://img.shields.io/badge/-MLOps-9cf)
+- **[Machine Learning Cross Skilling](#)**  
+  *Issued Oct 2022 - MCIT*  
+  ![MLOps Skill](https://img.shields.io/badge/-Machine%20Learning-9cf)
 
-- **[The Machine Learning Process A-Z](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![ML Process](https://img.shields.io/badge/-Machine%20Learning%20Process-green)
-
-- **[Deep Learning Specialization](#)**  
-  *Issued Mar 2023 - DeepLearning.AI*  
+- **[Deep Learning](#)**  
+  *Issued Oct 2023 - DeepLearning.AI*  
   ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-yellowgreen)
-
-- **[IBM AI Engineering Professional](#)**  
-  *Issued Apr 2023 - Coursera*  
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-orange)  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-brightgreen)
-
-- **[TensorFlow Professional](#)**  
-  *Issued Apr 2023 - DeepLearning.AI*  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue)
-
-- **[Machine Learning with Decision Trees and Random Forests](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![Decision Trees](https://img.shields.io/badge/-Decision%20Trees-brightgreen)
   
 
 ## 📊 Data Analysis & Visualization
 
-- **[Google Data Analytics Professional](#)**  
-  *Issued Apr 2023 - Google*  
-  ![SQL](https://img.shields.io/badge/-SQL-blueviolet)  
-  ![Tableau](https://img.shields.io/badge/-Tableau-orange)
+- **[Data Cleaning & Preprocessing with Pandas](#)**  
+  *Issued Nov 2022 - 365 Data Science*  
+  ![Pandas Skill](https://img.shields.io/badge/-Pandas-success)
 
-- **[Data Analysis with Python](#)**  
-  *Issued Feb 2023 - freeCodeCamp*  
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[NumPy for Data Science](#)**  
+  *Issued Nov 2022 - 365 Data Science*  
+  ![NumPy Skill](https://img.shields.io/badge/-NumPy-success)
 
-- **[Advanced Microsoft Excel](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![Excel Skill](https://img.shields.io/badge/-Excel-success)
-
-- **[Building Business Reports Using Power BI](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow)
 
 ## 🧮 Mathematics & Statistics
 
@@ -362,14 +337,6 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 - **[Linear Algebra for Machine Learning and Data Science](#)**  
   *Issued Feb 2023 - DeepLearning.AI*  
   ![Linear Algebra](https://img.shields.io/badge/-Linear%20Algebra-red)
-
-## 🛠️ Data Engineering
-
-- **[Associate Data Engineer in SQL](#)**  
-  *Issued Jul 2024 - DataCamp*  
-  ![SQL](https://img.shields.io/badge/-SQL-blueviolet)  
-  ![ETL](https://img.shields.io/badge/-ETL-orange)
-
 
 
 

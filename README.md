@@ -269,6 +269,23 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) ![OpenAIGym](https://img.shields.io/badge/OpenAIGym-orange) 
 
+
+---
+
+
+## 💰🙏 Finding Donors for CharityML 
+
+**Description:**  
+- developed a predictive model to identify individuals earning over $50,000 annually using 1994 U.S. Census data. The project involves data collection, exploration, and preprocessing, including normalizing features and encoding categorical variables. Various supervised learning algorithms are implemented and evaluated for accuracy. The best-performing model is then optimized through hyperparameter tuning to enhance predictive accuracy, aiding non-profits in effectively targeting potential donors.
+
+
+
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Deep%20Q-Learning%20for%20Lunar%20%20Lander.gif)](https://www.kaggle.com/code/hassanraof/finding-donors-for-charity-ml)
+
+
+**Tools & Technologies:**  
+![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=Scikit-learn&logoColor=white) 
+
 <br>
 
 # 🏅 Certifications

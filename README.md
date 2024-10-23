@@ -141,7 +141,7 @@ I focused on the computer vision system, which involved:
 - Evaluating the model's performance on a test set to ensure real-world applicability.
 
 
-  [![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)  
+  ![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)  
 
 
 

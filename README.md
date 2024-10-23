@@ -280,7 +280,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 
 
-[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Deep%20Q-Learning%20for%20Lunar%20%20Lander.gif)](https://www.kaggle.com/code/hassanraof/finding-donors-for-charity-ml)
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Finding%20Donors%20for%20Charity%20ML.gif)](https://www.kaggle.com/code/hassanraof/finding-donors-for-charity-ml)
 
 
 **Tools & Technologies:**  

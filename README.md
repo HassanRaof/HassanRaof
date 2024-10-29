@@ -291,6 +291,30 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 **Tools & Technologies:**  
 ![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=Scikit-learn&logoColor=white) 
 
+---
+# 📈 DeepLearning 
+
+---
+
+## 🧠 Brain Stroke Classification | Transfer Learning
+
+**Description:**  
+- Developed a robust brain stroke classification model utilizing transfer learning techniques on a dataset of MRI images. Implemented convolutional neural networks (CNNs) including DenseNet121, ResNet50, and Xception to enhance predictive accuracy. Employed ensemble learning strategies to combine model outputs, achieving high performance metrics such as precision, recall, and F1-score. The project demonstrated the effectiveness of deep learning in medical diagnostics, providing insights for early stroke detection and intervention.
+
+
+
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Stroke%20Classification%20Using%20Transfer%20Learning.gif)](https://www.kaggle.com/code/hassanraof/brain-stroke-classification-transfer-learning)
+
+**Tools & Technologies:**  
+![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-FF8C00?style=flat&logo=seaborn&logoColor=white) 
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
 <br>
 
 # 🏅 Certifications

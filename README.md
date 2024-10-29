@@ -124,7 +124,11 @@ implementation strategies and enhancing problem-solving skills in model evaluati
 
 ---
 
-## 💼 AI Virus Detection Device - Graduation Project 
+# Graduation Project 
+
+---
+
+## 🦠 AI Virus Detection Device 
 
 **Description:**  
 🚀 Developed an AI-powered analytical device to detect viral infections in biological samples
@@ -143,8 +147,9 @@ I focused on the computer vision system, which involved:
 
   ![Device](69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)  
 
+---
 
-
+# Machine Learning & DataScience 
 
 ---
 

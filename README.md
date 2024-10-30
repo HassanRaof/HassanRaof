@@ -324,7 +324,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 
 
-[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Stroke%20Classification%20Using%20Transfer%20Learning.gif)](https://www.kaggle.com/code/hassanraof/medical-image-denoising-auto-encoders)
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Image%20Denoising.gif)](https://www.kaggle.com/code/hassanraof/medical-image-denoising-auto-encoders)
 
 **Tools & Technologies:**  
 ![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) 

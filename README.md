@@ -315,6 +315,26 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF8C00?style=flat&logo=seaborn&logoColor=white) 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
+---
+
+## 🧠 Images Denoising | Auto Encoders
+
+**Description:**  
+- Developed an application of autoencoders for denoising medical images, focusing on enhancing image quality through unsupervised learning techniques. By training a convolutional autoencoder on noisy medical images, the model effectively learns to reconstruct clean images, thereby improving diagnostic accuracy and aiding in medical image analysis. The project includes data preprocessing, model architecture design, training, and evaluation metrics, showcasing the potential of deep learning in improving medical imaging outcomes.
+
+
+
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Stroke%20Classification%20Using%20Transfer%20Learning.gif)](https://www.kaggle.com/code/hassanraof/medical-image-denoising-auto-encoders)
+
+**Tools & Technologies:**  
+![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-FF8C00?style=flat&logo=seaborn&logoColor=white) 
+
 <br>
 
 # 🏅 Certifications

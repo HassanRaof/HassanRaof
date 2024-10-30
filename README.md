@@ -317,7 +317,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 ---
 
-## 🧠 Images Denoising | Auto Encoders
+## 🖼️🔍 Images Denoising | Auto Encoders
 
 **Description:**  
 - Developed an application of autoencoders for denoising medical images, focusing on enhancing image quality through unsupervised learning techniques. By training a convolutional autoencoder on noisy medical images, the model effectively learns to reconstruct clean images, thereby improving diagnostic accuracy and aiding in medical image analysis. The project includes data preprocessing, model architecture design, training, and evaluation metrics, showcasing the potential of deep learning in improving medical imaging outcomes.

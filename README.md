@@ -369,6 +369,25 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) 
 ![NLTK](https://img.shields.io/badge/NLTK-FF8C00?style=flat&logo=NLTK&logoColor=white) 
 
+---
+
+## 🌐 Machine Translation | Seq2Seq
+
+**Description:**  
+- Developed a state-of-the-art machine translation model utilizing Sequence-to-Sequence (Seq2Seq) architecture on a bilingual dataset. Implemented attention mechanisms to improve translation quality and handle long sequences effectively. The project achieved significant accuracy in translating sentences, showcasing the potential of deep learning in natural language processing and cross-linguistic communication.
+
+
+[![Market Basket Analysis](https://fast4trans.com/wp-content/uploads/2024/03/01-05-copy.webp)]((https://www.kaggle.com/code/hassanraof/machine-translation-seq2seq))
+
+**Tools & Technologies:**  
+![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+
+
+
 <br>
 
 # 🏅 Certifications

@@ -54,13 +54,26 @@
 
 ## 🟠 AI Intern  
 **Orange Digial Center**  
-**Sep 2024 - Present** ( 2 months)  
+**Sep 2024 - Dec 2024** ( 2 months)  
 **Location:** Cairo  
 
 **Key Responsibilities:**
-- Developing my understanding of foundational and advanced concepts in machine learning and deep learning, focuses on mathematical foundations, optimization techniques, and data analysis, providing hands-on experience in model evaluation, tuning, and pipeline development. I am gaining insights into various machine learning methods and their applications, while developing proficiency in deep learning frameworks. This experience equips me with the practical skills and theoretical knowledge necessary to effectively address real world AI challenges.
+- Developed my understanding of foundational and advanced concepts in machine learning and deep learning, focused on mathematical foundations, optimization techniques, and data analysis, provided hands-on experience in model evaluation, tuning, and pipeline development. I have gained insights into various machine learning methods and their applications, while developed proficiency in deep learning frameworks.
+- Gained hands-on experience in NLP, Computer Vision, Generative AI, and MLOps, including developing sentiment analysis models, object detection systems, GANs, and deploying scalable AI solutions with MLOps best practices.
 
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Deep_Learning](https://img.shields.io/badge/Deep_learning-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_Learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) [![Pipline_Development](https://img.shields.io/badge/Pipline_Development-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipline_Development) [![Model_Evaluation](https://img.shields.io/badge/Model_Evaluation-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_Learning) 
+[![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) 
+[![Pipeline Development](https://img.shields.io/badge/Pipeline_Development-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_pipeline) 
+[![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Model_selection)  
+[![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) 
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering) 
+[![Natural Language Processing](https://img.shields.io/badge/NLP-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) 
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-4682B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision)  
+[![MLOps](https://img.shields.io/badge/MLOps-228B22?style=for-the-badge)](https://en.wikipedia.org/wiki/MLOps) 
+[![GANs](https://img.shields.io/badge/GANs-DA70D6?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network) 
+[![LLMs](https://img.shields.io/badge/LLMs-FF8C00?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model) 
+
 
 ---
 
@@ -334,6 +347,27 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF8C00?style=flat&logo=seaborn&logoColor=white) 
+
+---
+
+## 💬 Sentiment Analysis | LSTM 
+
+**Description:**  
+- Developed a high-accuracy sentiment analysis model using Long Short-Term Memory (LSTM) networks on a dataset of textual reviews. The model incorporates advanced preprocessing techniques, embedding layers, and dropout layers to prevent overfitting. Achieved an impressive accuracy of 98% through rigorous training and hyperparameter tuning. This project highlights the capabilities of deep learning in natural language processing, providing valuable insights into customer sentiment.
+
+
+
+
+[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Image%20Denoising.gif)]([https://bigblue.academy/images/image/blog/sentiment-analysis/group-153.jpg](https://www.kaggle.com/code/hassanraof/sentiment-analysis-lstm-acc-98))
+
+**Tools & Technologies:**  
+![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) 
+![NLTK](https://img.shields.io/badge/NLTK-FF8C00?style=flat&logo=NLTK&logoColor=white) 
 
 <br>
 

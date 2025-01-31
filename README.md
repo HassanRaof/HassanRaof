@@ -358,7 +358,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 
 
-[![Market Basket Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Sentiment%20Analysis.gif)](https://www.kaggle.com/code/hassanraof/sentiment-analysis-lstm-acc-98)
+[![Sentiment Analysis](https://github.com/HassanRaof/HassanRaof/blob/main/Sentiment%20Analysis.gif)](https://www.kaggle.com/code/hassanraof/sentiment-analysis-lstm-acc-98)
 
 **Tools & Technologies:**  
 ![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) 

@@ -377,7 +377,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 - Developed a state-of-the-art machine translation model utilizing Sequence-to-Sequence (Seq2Seq) architecture on a bilingual dataset. Implemented attention mechanisms to improve translation quality and handle long sequences effectively. The project achieved significant accuracy in translating sentences, showcasing the potential of deep learning in natural language processing and cross-linguistic communication.
 
 
-[![Market Basket Analysis](https://fast4trans.com/wp-content/uploads/2024/03/01-05-copy.webp)](https://www.kaggle.com/code/hassanraof/machine-translation-seq2seq)
+[![Machine Translation](https://fast4trans.com/wp-content/uploads/2024/03/01-05-copy.webp)](https://www.kaggle.com/code/hassanraof/machine-translation-seq2seq)
 
 **Tools & Technologies:**  
 ![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) 

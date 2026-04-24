@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1jQOn-jON4HmUQeJn2lk8e6SJIzrS78De/view?usp=sharing)  
-- 💬 **Ask me about**: , Data Science, Machine Learning, Deep Learning,Computer Vision , NLP 
+- 💬 **Ask me about**:Machine Learning, Deep Learning,Computer Vision,LLMS,RAG 
 - 📫 **Reach me at**: [hassanraof404@gmail.com](mailto:hassanraof404@gmail.com) | **+20 1115617479**  
 
 ---
@@ -49,6 +49,44 @@
 <br>
 
 # 💼 Experience
+
+---
+
+## 🔵 AI/ML Engineer  
+**Upwork · Freelance**  
+**Dec 2024 – Present** (1 yr 5 mos)  
+**Location:** Remote  
+
+**Key Responsibilities:**
+- Collaborated with diverse clients on predictive modeling and intelligent system design projects.  
+- Focused on aligning solutions with client goals, ensuring high-quality deliverables and timely completion.  
+- Built models that enhanced business processes through automation and data-driven insights.  
+
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF8C00?style=for-the-badge)](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)  
+[![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Predictive_modelling)  
+[![Intelligent Systems](https://img.shields.io/badge/Intelligent_Systems-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Intelligent_system)  
+[![Client Collaboration](https://img.shields.io/badge/Client_Collaboration-228B22?style=for-the-badge)](https://en.wikipedia.org/wiki/Collaboration)  
+
+---
+
+## 🟢 AI Engineer  
+**PYTHON WATER · Full-time**  
+**Jan 2025 – May 2025** (5 mos)  
+**Location:** United States · Remote  
+
+**Company:** Early-stage startup focused on AI-powered hydration monitoring.  
+
+**Key Responsibilities:**
+- Designed and deployed ML models to analyze real-time sensor data from wearables and IoT devices for hydration tracking.  
+- Owned the end-to-end data pipeline: data collection, preprocessing, and time-series modeling for predicting hydration behavior.  
+- Delivered AI-driven features for estimating last water intake and generating personalized hydration insights.  
+
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF8C00?style=for-the-badge)](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+[![Data Generation](https://img.shields.io/badge/Data_Generation-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data)  
+[![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-4682B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing)  
+[![ML Pipeline](https://img.shields.io/badge/ML_Pipeline-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)  
+[![Time-Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series)  
 
 ---
 

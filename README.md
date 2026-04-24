@@ -430,10 +430,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 [![Masked Language Model](https://github.com/HassanRaof/HassanRaof/blob/main/sss.gif)](https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/hassanraof/fine-tuned-a-masked-lm.14dc19bd-212b-471f-a78f-2287aef8e6d6.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20260424/auto/storage/goog4_request%26X-Goog-Date%3D20260424T231304Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D784bb1f6d338bdc823b330c82174e38c2843cbb702574d50b872bf93e2ac52fa3f6f93e252f8fb17ae0e67be3ce2fc155cb41b4e3c9cff96c5fa3ef3dae14130600aca34089eaa6b6bbe39b876bc5d15ba6070f7215708f3b38522303abcf9188ce409ccc4b266f00048eed1e7181aebc187a4f5010b71202a9d026d3661d8f1174e6f9b60b183e2cba34fa5c240b88cb6d55246a90440065decf4c75b425a01ca159069588f185bd3eb945edd21cd4416c9b2c8c84625da732b3e66b8e5592821d1abc140a3abbfaf2a26c40e5f99d8082f610ff04a40a513f5ebd29b58e298e93783f2232a21c5bb09f2fe81f0dd94ec9c6ff170787dbaa916deb671693bf1)
 
 **Tools & Technologies:**  
-![LLMs](https://img.shields.io/badge/LLMs-3776AB?style=flat&logo=LLMs&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black)  
-![Fine-Tuning](https://img.shields.io/badge/Fine-Tuning-013243?style=flat&logo=Fine-Tuning&logoColor=white)  
+![LLMs](https://img.shields.io/badge/LLMs-3776AB?style=flat&logo=LLMs&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black) ![Fine-Tuning](https://img.shields.io/badge/Fine-Tuning-013243?style=flat&logo=Fine-Tuning&logoColor=white)  
   
 
 

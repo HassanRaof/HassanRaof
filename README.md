@@ -431,7 +431,24 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 **Tools & Technologies:**  
 ![LLMs](https://img.shields.io/badge/LLMs-3776AB?style=flat&logo=LLMs&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black) ![Fine-Tuning](https://img.shields.io/badge/Fine-Tuning-013243?style=flat&logo=Fine-Tuning&logoColor=white)  
-  
+
+---
+
+## ❓ Domain-Specific Question Answering with Transformer Models  
+
+**Description:**  
+- Fine-tuned transformer-based models (DistilBERT/RoBERTa) on the SQuAD dataset to build a robust question answering system.  
+- Implemented advanced tokenization strategies including truncation, stride, and offset mapping to handle long contexts and align answer spans accurately.  
+- Designed preprocessing pipelines to generate start and end token positions for supervised training.  
+- Trained models using Hugging Face’s Trainer API with weight decay, learning rate scheduling, and fp16 acceleration.  
+- Evaluated performance with Exact Match (EM) and F1 scores, achieving strong comprehension capabilities.  
+- Integrated the model into a Hugging Face pipeline for seamless inference, enabling real-time QA predictions from arbitrary text passages.  
+
+[![Question Answering](https://github.com/HassanRaof/HassanRaof/blob/main/queston.gif)](https://www.kaggle.com/code/hassanraof/question-answering-fine-tuning)
+
+**Tools & Technologies:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black) ![Trainer API](https://img.shields.io/badge/Trainer_API-013243?style=flat&logo=apachespark&logoColor=white) ![Exact Match](https://img.shields.io/badge/Exact_Match-228B22?style=flat&logo=googleanalytics&logoColor=white) ![F1 Score](https://img.shields.io/badge/F1_Score-FF6347?style=flat&logo=googleanalytics&logoColor=white)  
+
 
 
 

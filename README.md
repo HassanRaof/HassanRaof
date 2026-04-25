@@ -444,7 +444,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 - Evaluated performance with Exact Match (EM) and F1 scores, achieving strong comprehension capabilities.  
 - Integrated the model into a Hugging Face pipeline for seamless inference, enabling real-time QA predictions from arbitrary text passages.  
 
-[![Question Answering](https://github.com/HassanRaof/HassanRaof/blob/main/queston.gif)](https://www.kaggle.com/code/hassanraof/question-answering-fine-tuning)
+[![Question Answering](https://github.com/HassanRaof/HassanRaof/blob/main/Untitled_Artwork.gif)](https://www.kaggle.com/code/hassanraof/question-answering-fine-tuning)
 
 **Tools & Technologies:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black) ![Trainer API](https://img.shields.io/badge/Trainer_API-013243?style=flat&logo=apachespark&logoColor=white) ![Exact Match](https://img.shields.io/badge/Exact_Match-228B22?style=flat&logo=googleanalytics&logoColor=white) ![F1 Score](https://img.shields.io/badge/F1_Score-FF6347?style=flat&logo=googleanalytics&logoColor=white)  

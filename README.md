@@ -463,13 +463,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 [![Enterprise RAG Engine](https://github.com/HassanRaof/HassanRaof/blob/main/rag-with-llms-1.gif)](https://github.com/HassanRaof/rag-smart-assistant)
 
 **Tools & Technologies:**  
-![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=flat&logo=chainlink&logoColor=white)  
-![FAISS](https://img.shields.io/badge/FAISS-228B22?style=flat&logo=apache&logoColor=white)  
-![Groq API](https://img.shields.io/badge/Groq_API-FF4500?style=flat&logo=graphql&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![REST](https://img.shields.io/badge/REST_Endpoints-FFD700?style=flat&logo=swagger&logoColor=black)  
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat&logo=openai&logoColor=white)  
-![Vector Search](https://img.shields.io/badge/Vector_Search-DC143C?style=flat&logo=databricks&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=flat&logo=chainlink&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-228B22?style=flat&logo=apache&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq_API-FF4500?style=flat&logo=graphql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST_Endpoints-FFD700?style=flat&logo=swagger&logoColor=black) ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat&logo=openai&logoColor=white) ![Vector Search](https://img.shields.io/badge/Vector_Search-DC143C?style=flat&logo=databricks&logoColor=white)  
 
 
 

@@ -449,6 +449,29 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 **Tools & Technologies:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black) ![Trainer API](https://img.shields.io/badge/Trainer_API-013243?style=flat&logo=apachespark&logoColor=white) ![Exact Match](https://img.shields.io/badge/Exact_Match-228B22?style=flat&logo=googleanalytics&logoColor=white) ![F1 Score](https://img.shields.io/badge/F1_Score-FF6347?style=flat&logo=googleanalytics&logoColor=white)  
 
+---
+
+## 🏢 Enterprise RAG Engine  
+
+**Description:**  
+- Built an enterprise Retrieval-Augmented Generation (RAG) microservice using **LangChain**, **FAISS**, and the **Groq API** to process PDF documents and answer user queries with source citations.  
+- Designed a modular architecture with **FastAPI**, enabling production-ready document intelligence and scalable deployment.  
+- Implemented vector-based retrieval pipelines for efficient semantic search across enterprise documents.  
+- Integrated REST endpoints for real-time query answering, ensuring seamless interaction with downstream applications.  
+- Delivered a robust solution for enterprise knowledge management, combining LLM reasoning with reliable source attribution.  
+
+[![Enterprise RAG Engine](https://github.com/HassanRaof/HassanRaof/blob/main/rag-with-llms-1.gif)](https://github.com/HassanRaof/rag-smart-assistant)
+
+**Tools & Technologies:**  
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=flat&logo=chainlink&logoColor=white)  
+![FAISS](https://img.shields.io/badge/FAISS-228B22?style=flat&logo=apache&logoColor=white)  
+![Groq API](https://img.shields.io/badge/Groq_API-FF4500?style=flat&logo=graphql&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![REST](https://img.shields.io/badge/REST_Endpoints-FFD700?style=flat&logo=swagger&logoColor=black)  
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat&logo=openai&logoColor=white)  
+![Vector Search](https://img.shields.io/badge/Vector_Search-DC143C?style=flat&logo=databricks&logoColor=white)  
+
+
 
 
 

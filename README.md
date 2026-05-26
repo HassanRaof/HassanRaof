@@ -465,6 +465,20 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 **Tools & Technologies:**  
 ![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=flat&logo=chainlink&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-228B22?style=flat&logo=apache&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq_API-FF4500?style=flat&logo=graphql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST_Endpoints-FFD700?style=flat&logo=swagger&logoColor=black) ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat&logo=openai&logoColor=white) ![Vector Search](https://img.shields.io/badge/Vector_Search-DC143C?style=flat&logo=databricks&logoColor=white)  
 
+## 🏠 GraphStay AI — GraphRAG-Powered Airbnb Chatbot Platform  
+
+**Description:**  
+- Developed an intelligent Airbnb chatbot platform powered by **GraphRAG** and **Neo4j knowledge graphs**, enabling accurate multi-hop reasoning across properties, hosts, reviews, neighborhoods, pricing, and policies.  
+- Integrated **Hybrid Retrieval** (Vector Search + BM25), **Self-Query Retrieval**, reranking, memory management, hallucination reduction, and answer verification.  
+- Implemented **RAGAS-based evaluation** to ensure reliable performance and minimize hallucinations.  
+- Designed a scalable architecture with **FastAPI** and **Docker**, supporting production-ready deployment and REST API integration.  
+- Delivered a robust conversational assistant for Airbnb-style platforms, combining structured graph reasoning with LLM-powered natural language understanding.  
+
+[![GraphStay AI](https://github.com/HassanRaof/HassanRaof/blob/main/graph%20rag.gif)](https://github.com/HassanRaof/GraphRAG-Powered-Airbnb-Chatbot-Platform)
+
+**Tools & Technologies:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF69B4?style=flat&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=flat&logo=chainlink&logoColor=white) ![GraphRAG](https://img.shields.io/badge/GraphRAG-4B0082?style=flat&logo=graphql&logoColor=white) ![BM25](https://img.shields.io/badge/BM25-DC143C?style=flat&logo=elasticsearch&logoColor=white) ![RAGAS](https://img.shields.io/badge/RAGAS-FF8C00?style=flat&logo=googleanalytics&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-800080?style=flat&logo=databricks&logoColor=white) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-2E8B57?style=flat&logo=algolia&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FFD700?style=flat&logo=swagger&logoColor=black)  
+
 
 
 

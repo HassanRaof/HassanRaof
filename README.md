@@ -10,9 +10,8 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1jQOn-jON4HmUQeJn2lk8e6SJIzrS78De/view?usp=sharing)  
-- 💬 **Ask me about**:Machine Learning, Deep Learning,Computer Vision,LLMS,RAG 
+### 👨‍💻 About Me: 
+- 💬 **Ask me about**:Machine Learning,Deep Learning,Computer Vision,LLMS,RAG 
 - 📫 **Reach me at**: [hassanraof404@gmail.com](mailto:hassanraof404@gmail.com) | **+20 1115617479**  
 
 ---

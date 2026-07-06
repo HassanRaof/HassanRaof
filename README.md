@@ -476,7 +476,29 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 [![GraphStay AI](https://github.com/HassanRaof/HassanRaof/blob/main/graph%20rag.gif)](https://github.com/HassanRaof/GraphRAG-Powered-Airbnb-Chatbot-Platform)
 
 **Tools & Technologies:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF69B4?style=flat&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=flat&logo=chainlink&logoColor=white) ![GraphRAG](https://img.shields.io/badge/GraphRAG-4B0082?style=flat&logo=graphql&logoColor=white) ![BM25](https://img.shields.io/badge/BM25-DC143C?style=flat&logo=elasticsearch&logoColor=white) ![RAGAS](https://img.shields.io/badge/RAGAS-FF8C00?style=flat&logo=googleanalytics&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-800080?style=flat&logo=databricks&logoColor=white) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-2E8B57?style=flat&logo=algolia&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FFD700?style=flat&logo=swagger&logoColor=black)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF69B4?style=flat&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=flat&logo=chainlink&logoColor=white) ![GraphRAG](https://img.shields.io/badge/GraphRAG-4B0082?style=flat&logo=graphql&logoColor=white) ![BM25](https://img.shields.io/badge/BM25-DC143C?style=flat&logo=elasticsearch&logoColor=white) ![RAGAS](https://img.shields.io/badge/RAGAS-FF8C00?style=flat&logo=googleanalytics&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-800080?style=flat&logo=databricks&logoColor=white) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-2E8B57?style=flat&logo=algolia&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FFD700?style=flat&logo=swagger&logoColor=black) 
+
+---
+
+## 🏠 PropAgent — AI Real Estate SDR Agent
+**Description:**  
+🤖 Developed an AI-powered real estate SDR agent that 
+qualifies leads conversationally in Arabic & English. 
+The agent collects client requirements one question at 
+a time, scores leads automatically (HOT 🔥 / WARM ⚡ / 
+COLD ❄️), searches matching properties from a database, 
+saves leads to Google Sheets, and instantly alerts the 
+sales team via email for high-priority leads.
+
+[![PropAgent](https://github.com/HassanRaof/HassanRaof/blob/main/69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)](https://github.com/HassanRaof/real-estate-ai-agent)
+
+**Tools & Technologies:**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
+
+---
 
 
 

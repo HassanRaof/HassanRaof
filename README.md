@@ -490,7 +490,7 @@ COLD ❄️), searches matching properties from a database,
 saves leads to Google Sheets, and instantly alerts the 
 sales team via email for high-priority leads.
 
-[![PropAgent](https://github.com/HassanRaof/HassanRaof/blob/main/69a07098-81d7-4d74-bbbf-7a2a01ae7395.jfif)](https://github.com/HassanRaof/real-estate-ai-agent)
+[![PropAgent](https://github.com/HassanRaof/HassanRaof/blob/main/s-1200x800_v-fms_webp_ed24b35c-9e42-444c-a546-fdd08f691360.jpg)](https://github.com/HassanRaof/real-estate-ai-agent)
 
 **Tools & Technologies:**  
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)

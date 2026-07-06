@@ -167,11 +167,8 @@ implementation strategies and enhancing problem-solving skills in model evaluati
 
 ---
 
-# Graduation Project 
 
----
-
-## 🦠 AI Virus Detection Device 
+## 🦠 AI Virus Detection Device (Graduation Project)
 
 **Description:**  
 🚀 Developed an AI-powered analytical device to detect viral infections in biological samples
@@ -387,7 +384,7 @@ generating sentence embeddings using SentenceTransformer
 for multi-class classification. The model handles class 
 imbalance and achieves high accuracy across all news categories.
 
-[![News Classification](https://github.com/HassanRaof/HassanRaof/raw/main/News%20Classification.gif)](https://www.kaggle.com/code/hassanraof/news-classification)
+[![News Classification](https://github.com/HassanRaof/HassanRaof/blob/main/News%20Classification.gif)](https://www.kaggle.com/code/hassanraof/news-classification)
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

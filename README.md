@@ -192,10 +192,6 @@ I focused on the computer vision system, which involved:
 
 ---
 
-# Machine Learning & DataScience 
-
----
-
 ## 🚗 Advanced Techniques in Used Car Price Prediction
 **🏆Kaggle Competition**
 
@@ -335,9 +331,7 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 ![numpy](https://img.shields.io/badge/numpy-3776AB?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=Scikit-learn&logoColor=white) 
 
 ---
-# 📈 DeepLearning 
 
----
 
 ## 🧠 Brain Stroke Classification | Transfer Learning
 
@@ -380,6 +374,31 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 ---
 
+## 📰 News Classification System
+**Description:**  
+🧠 Developed a News Classification System that leverages 
+deep learning to automatically categorize news articles 
+into multiple topics. Key methodologies include data 
+collection from the News Category Dataset, text preprocessing 
+by combining headlines and descriptions, balancing the dataset 
+using resampling techniques (4000 samples per category), 
+generating sentence embeddings using SentenceTransformer 
+(all-MiniLM-L6-v2), and training an LSTM neural network 
+for multi-class classification. The model handles class 
+imbalance and achieves high accuracy across all news categories.
+
+[![News Classification](https://github.com/HassanRaof/HassanRaof/raw/main/News%20Classification.gif)](https://www.kaggle.com/code/hassanraof/news-classification)
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+
+---
+
 ## 💬 Sentiment Analysis | LSTM 
 
 **Description:**  
@@ -419,21 +438,33 @@ Developed a Deep Q-Learning model to solve the Lunar Lander environment, employi
 
 ---
 
-## 📚 Fine-Tuning a Masked Language Model   
-
+## 🎨 Image Generation | GANs & VAEs
 **Description:**  
-- Developed and fine-tuned a custom Masked Language Model (MLM) using encoder-only transformer architectures (RoBERTa/DistilBERT) for domain-specific text understanding.  
-- The model predicts masked tokens by leveraging bidirectional context, enabling deep semantic representation learning.  
-- Applied the approach on a specialized text corpus to improve contextual comprehension and downstream NLP performance.  
+🖼️ Developed an Image Generation system implementing and 
+comparing multiple deep generative architectures on the 
+CUHK Face Sketch Database. Built and trained three models 
+from scratch: DCGAN (Deep Convolutional GAN) with a 
+Generator-Discriminator architecture, WGAN (Wasserstein GAN) 
+for more stable training using a Critic instead of a 
+Discriminator, and VAE (Variational Autoencoder) for 
+learning latent space representations. All models were 
+trained to generate realistic human face sketches at 64x64 
+resolution using PyTorch.
 
-[![Masked Language Model](https://github.com/HassanRaof/HassanRaof/blob/main/sss.gif)](https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/hassanraof/fine-tuned-a-masked-lm.14dc19bd-212b-471f-a78f-2287aef8e6d6.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20260424/auto/storage/goog4_request%26X-Goog-Date%3D20260424T231304Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D784bb1f6d338bdc823b330c82174e38c2843cbb702574d50b872bf93e2ac52fa3f6f93e252f8fb17ae0e67be3ce2fc155cb41b4e3c9cff96c5fa3ef3dae14130600aca34089eaa6b6bbe39b876bc5d15ba6070f7215708f3b38522303abcf9188ce409ccc4b266f00048eed1e7181aebc187a4f5010b71202a9d026d3661d8f1174e6f9b60b183e2cba34fa5c240b88cb6d55246a90440065decf4c75b425a01ca159069588f185bd3eb945edd21cd4416c9b2c8c84625da732b3e66b8e5592821d1abc140a3abbfaf2a26c40e5f99d8082f610ff04a40a513f5ebd29b58e298e93783f2232a21c5bb09f2fe81f0dd94ec9c6ff170787dbaa916deb671693bf1)
+[![Image Generation](https://github.com/HassanRaof/HassanRaof/blob/main/human-generator-cover_c3eabe5cf8a539557a8bc5e1394e5ce9_2000-1440x600.jpg)](https://www.kaggle.com/code/hassanraof/image-generation-gans-vaes)
 
 **Tools & Technologies:**  
-![LLMs](https://img.shields.io/badge/LLMs-3776AB?style=flat&logo=LLMs&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black) ![Fine-Tuning](https://img.shields.io/badge/Fine-Tuning-013243?style=flat&logo=Fine-Tuning&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![PIL](https://img.shields.io/badge/Pillow-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## ❓ Domain-Specific Question Answering with Transformer Models  
+
+## ❓ ❓ Fine-Tuning LLMs for Question Answering (medical domain)
 
 **Description:**  
 - Fine-tuned transformer-based models (DistilBERT/RoBERTa) on the SQuAD dataset to build a robust question answering system.  

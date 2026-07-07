@@ -126,24 +126,6 @@
 
 ---
 
-## 🖥️ Machine Learning Intern  
-**Code Alpha** · *Remote*  
-**Aug 2024 - Present** (3 month)  
-
-**Key Responsibilities:**
-- Participate in the full machine learning lifecycle, from data collection and preprocessing to model training, evaluation, and deployment
-- Contribute to the development of cutting-edge AI/ML solutions for real-world problems across various domains
-- Assist in the design and implementation of efficient, scalable, and robust machine learning pipelines
-- Perform exploratory data analysis, feature engineering, and model selection to optimize model performance
-
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFB74D?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
-[![Data Processing](https://img.shields.io/badge/Data_Processing-4EA94B?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_processing)
-[![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-00758F?style=for-the-badge)](https://en.wikipedia.org/wiki/Model_evaluation)
-[![AI Solutions](https://img.shields.io/badge/AI_Solutions-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![Pipeline Design](https://img.shields.io/badge/Pipeline_Design-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Pipeline_(computing))
-
----
-
 ## 🧑‍💻 Machine Learning Intern  
 **Ministry of Communications and Information Technology (MCIT), Egypt** · *Remote*  
 **Oct 2022 - Dec 2022** (2 month) 
@@ -261,21 +243,6 @@ Developed a predictive model for customer churn using XGBoost by importing and p
 **Tools & Technologies:**  
 ![imblearn](https://img.shields.io/badge/imblearn-3776AB?style=flat&logo=imblearn&logoColor=white) ![XGboost](https://img.shields.io/badge/XGboost-FF6347?style=flat&logo=XGboost) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-013243?style=flat&logo=Scikit-learn&logoColor=white) 
 
----
-
-## 🎥 Housing Prices in Egypt 
-
-**Description:**  
-Developed a predictive modeling project focused on housing prices in Egypt using a stacking ensemble approach. The project involved data collection, preprocessing, and exploratory data analysis (EDA) to uncover key insights. Implemented feature engineering and trained multiple base models, culminating in a stacking ensemble that enhanced predictive accuracy. Evaluated model performance using metrics such as Mean Absolute Error (MAE), demonstrating proficiency in advanced machine learning techniques and data-driven decision-making.
-
-
-
-  [![Movie Recommendation System](https://github.com/HassanRaof/HassanRaof/blob/main/houses.PNG)](https://www.kaggle.com/code/hassanraof/egypt-houses-price-using-stacking-model)
-
-
-
-**Tools & Technologies:**  
-![LightGBM](https://img.shields.io/badge/LightGBM-3776AB?style=flat&logo=LightGBM&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF4500?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-orange) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
 
 
 ---
